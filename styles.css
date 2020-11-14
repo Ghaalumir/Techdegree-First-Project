@@ -63,8 +63,8 @@ a:hover {
 }
 
 header {
-  text-align:  center top;
-  background: url('images/Io\ in\ Villa\ Final.png') no-repeat bottom center ;
+  text-align:  center;
+  background: url('images/IoinVillaFinal.png') no-repeat bottom center ;
   background-size: cover;
   overflow: hidden;
   padding: 260px;
@@ -144,7 +144,7 @@ a.social {
 }
 
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(images/Facebook.png);
 }
 a.social:hover {
   opacity: 1;
@@ -190,6 +190,27 @@ a.social:hover {
     margin: 40px auto;
   }
 
+}
+
+.profile-image {
+  margin-left: 9px;
+  width: 400px;
+  height: 300px;
+  transition: all .5s;
+}
+
+.profile-image2 {
+  margin-left: 9px;
+  width: 400px;
+  height: 400px;
+  transition: all .5s;
+}
+
+.profile-image3 {
+  margin-left: 9px;
+  width: 400px;
+  height: 300px;
+  transition: all .5s;
 }
 
 
